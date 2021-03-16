@@ -1,0 +1,15 @@
+{
+    "name": "PenguinChat2",
+    "version": "1.0.5",
+    "description": "An avatar chat with penguins, Penguin Chat 2!",
+    "main": "src/Run.js",
+    "keywords": ["Penguin chat", "PC3", "PC2", "PC1", "Club Penguin", "Private Server", "Penguin Chat Private Server"],
+    "engines": {"node": "10.6.0"},
+    "author": "Zaseth",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.3",
+    	"knex": "^0.15.1",
+    	"mysql2": "^1.5.3"
+    }
+}
